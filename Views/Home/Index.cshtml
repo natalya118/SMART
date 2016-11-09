@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="Messanger">
+<head>
+    <meta content="IE=edge, chrome=1" http-equiv="X-UA-Compatible"/>
+    <title>SMARTchat</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <link href="/Content/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/Content/css/SocialButtons.css" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <!-- Material Design fonts -->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/icon?family=Material+Icons">
+    <!-- Bootstrap Material Design -->
+    <link rel="stylesheet" type="text/css" href="/Content/modules/bootstrap-material-design/dist/css/bootstrap-material-design.css">
+    <link rel="stylesheet" type="text/css" href="/Content/modules/bootstrap-material-design/dist/css/ripples.min.css">
+    <!-- Material Design for Bootstrap -->
+    <script src="/Content/modules/bootstrap-material-design/dist/js/material.js"></script>
+    <script src="/Content/modules/bootstrap-material-design/dist/js/ripples.min.js"></script>
+
+    <script>
+  $.material.init();
+    </script>
+    <link href="/Content/css/main.css" rel="stylesheet" />
+    <link href="/Content/Prettify/prettify.css" rel="stylesheet" />
+
+    <link href="~/Content/css/font-awesome.min.css" rel="stylesheet" />
+
+</head>
+<body>
+<div class="navbar nav-top" role="navigation" data-ng-controller="IndexController">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <img class="logo" src="~/Content/images/smartlogo.png">
+
+            <span class="navbar-brand" href="javascript:void(0)">SMARTchat</span>
+        </div>
+        <div class="navbar-collapse collapse navbar-responsive-collapse ">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="javascript:void(0)">About</a></li>
+                <li class="active"><a href="javascript:void(0)">Contact us</a></li>
+
+            </ul>
+                
+            <ul class="nav navbar-nav navbar-right">
+                <button id="login-btn" class="btn btn-raised btn-success" ng-hide="authentication.isAuth"> <a href="#/login">Log in</a></button>
+
+                <button id="signin-btn" class="btn btn-raised btn-primary" ng-hide="authentication.isAuth"> <a href="#/signup">Register</a></button>
+                <button id="logout-btn" class="btn btn-raised btn-primary" ng-hide="!authentication.isAuth"> <a href="" data-ng-click="logOut()">LogOut</a></button>
+                <button id="chats-btn" class="btn btn-raised btn-primary" ng-hide="!authentication.isAuth"> <a href="#/chats">Chats</a></button>
+            </ul>
+        </div>
+    </div>
+</div>
+    
+<div class="container">
+    <div ng-view [onload="string"] id="ang-mid">
+
+    </div>
+</div>
+
+<!-- 3rd party libraries -->
+<script src="/Scripts/angular.js"></script>
+<script src="/Scripts/angular-sanitize.js"></script>
+<script src="/Scripts/angular-ui/ui-bootstrap.js"></script>
+<script src="/Scripts/angular-ui/ui-bootstrap-tpls.js"></script>
+<script src="/Scripts/angular-route.min.js"></script>
+<script src="/Scripts/angular-local-storage.min.js"></script>
+<script src="/Scripts/jquery-1.10.2.js"></script>
+<script src="/Scripts/jquery.signalR-2.2.1.min.js"></script>
+<script src="/Scripts/Prettify/prettify.js"></script>
+
+<!--<script src="~/Scripts/loading-bar.min.js"></script>-->
+<!-- Load app main script -->
+<script type="text/javascript" src="/signalr/hubs"></script>
+
+<script src="/AngularPart/app.js"></script>
+<!-- Load services -->
+<script src="/AngularPart/Services/AuthInterceptorService.js"></script>
+<script src="/AngularPart/Services/AuthService.js"></script>
+<script src="/AngularPart/Services/ChatsService.js"></script>
+<script src="/AngularPart/Services/ChatsHubService.js"></script>
+<script src="/AngularPart/Services/UserService.js"></script>
+<!-- Load controllers -->
+<script src="/AngularPart/Controllers/IndexController.js"></script>
+<script src="/AngularPart/Controllers/HomeController.js"></script>
+<script src="/AngularPart/Controllers/LoginController.js"></script>
+<script src="/AngularPart/Controllers/SignupController.js"></script>
+<script src="/AngularPart/Controllers/ChatsController.js"></script>
+<script src="/AngularPart/Controllers/ModalController.js"></script>
+<script src="/AngularPart/Controllers/AssociateController.js"></script>
+</body>
+</html>

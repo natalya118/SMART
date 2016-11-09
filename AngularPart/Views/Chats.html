@@ -1,0 +1,115 @@
+﻿
+
+<script src="../../Scripts/jquery-3.1.0.js"></script>
+<script src="../../Scripts/jquery.signalR-2.2.1.js"></script>
+<script src='/signalr/js'></script>
+<div id="Chats">
+    <div class="row">
+        <div class="col-md-12">
+            <ul id="messages"></ul>
+        </div>
+    </div>
+
+    <div class="ui chat">
+        <div class="left-menu">
+            <div class="form-group label-static" id="search-chat-left">
+                <input type="search" class="form-control" placeholder="search..." name="" id="">
+                
+            </div>
+   
+            <menu class="list-friends">
+                <li data-ng-click="getMessagesForChat(item)" data-ng-repeat="item in chats">
+                    <img width="50" height="50" src="http://cs625730.vk.me/v625730358/1126a/qEjM1AnybRA.jpg">
+                    <div class="info">
+                        <!-- TODO class user -> class chat -->
+                        <div class="user">{{item.title}}</div>
+                        <div class="status on"> {{item.createDate}}</div>
+                    </div>
+                </li>
+
+            </menu>
+            
+            <div class="form-group label-static left-chat-form">
+                <div class="form-title">Create chat</div>
+                <input type="text" class="form-control" placeholder="Title" id="chatTitle" />
+                <div class="form-group label-static">
+                    <input type="checkbox" placeholder="IsPrivate" id="chatIsPrivate" />
+                    
+                    <span class="mark">Is private</span>
+                </div>
+                <input type="submit" class="btn btn-raised btn-primary"  id="addChat" value="Add Chat" />
+            
+            </div>
+
+            
+
+            <div class="form-group label-static left-chat-form">
+                <div class="form-title">Add to chat</div>
+                <div class="form-group label-static">
+                    <input type="text" class="form-control" placeholder="ChatName" id="chatName" />
+                    </div>
+                <div class="form-group label-static">
+                    <input type="text" class="form-control" placeholder="UserName" id="userNamee" />
+                </div>
+                    <input type="submit" class="btn btn-raised btn-primary" id="addUserToChat" value="Add User" />
+                </div>
+            </div>
+        <div class="chat" style="overflow-y: scroll;">
+            <div class="top">
+                <div class="avatar">
+                    <img width="50" height="50" src="http://cs625730.vk.me/v625730358/1126a/qEjM1AnybRA.jpg">
+                </div>
+                <div class="info">
+                    <div class="name">{{currentChat.title}}</div>
+                    <div class="count">already {{messages.length}} messages</div>
+                </div>
+            </div>
+            <ul class="messages">
+                <li data-ng-class="getClass($index)" data-ng-repeat="message in messages">
+                    <div class="head">
+                        <span class="time">{{message.createDate}}</span>
+                        <span class="name">{{message.user.userName}}</span>
+                    </div>
+                    <div id="messageDiv" class="message" ng-bind-html="message.text">
+                    </div>
+                    <script>prettyPrint();</script>
+                    <span data-ng-click="deleteMessage(message.id)" style="float: left;" class="time">Delete message</span>
+                </li>
+            </ul>
+            <textarea id="texxt" class="write-form" style="overflow-y: scroll; text-align: left;" contenteditable="true">
+            </textarea>
+
+            <button class="btn btn-primary" ng-click="pasteHtmlAtCaret()"> Selected to code </button>
+            <input type="submit" id="submitButton" class="btn btn-primary" ng-click="sendMessage(message.text)"/>
+
+            <!--<div class="write-form">
+            <textarea placeholder="Type your message" name="message" ng-mouseup="showSelectedText()"
+                      ng-model="message.text" ng-bind="message" id="texxt" rows="2"></textarea>-->
+        </div>
+    </div>
+
+    <!--<input type="text" name="message" ng-model="message.text"/>-->
+</div>
+<div data-ng-controller="ModalController as $ctrl">
+    <script type="text/ng-template" id="myModalContent.html">
+        <div class="modal-header">
+            <h3 class="modal-title" id="modal-title">I'm a modal!</h3>
+        </div>
+        <div class="modal-body" id="modal-body">
+            <span>{{$ctrl.userName}} </span>
+            <span>Hello</span>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-primary" type="button" ng-click="$ctrl.ok()">OK</button>
+            <button class="btn btn-primary" type="button" ng-click="$ctrl.getUserInfo($ctrl.userName)">OK</button>
+            <button class="btn btn-warning" type="button" ng-click="$ctrl.cancel()">Cancel</button>
+        </div>
+    </script>
+    <button type="button" class="btn btn-raised btn-primary"
+            ng-click="$ctrl.open('lg')">
+        View profile
+    </button>
+</div>
+
+
+

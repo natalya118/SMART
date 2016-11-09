@@ -1,0 +1,864 @@
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\csc.exe
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\csc.exe.config
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\csc.rsp
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\csi.exe
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\csi.rsp
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\System.AppContext.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\vbc.exe
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\vbc.exe.config
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\vbc.rsp
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.dll.config
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Antlr3.Runtime.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Autofac.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Autofac.Integration.Mvc.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Autofac.Integration.WebApi.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\AutoMapper.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\EntityFramework.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\EntityFramework.SqlServer.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.Cookies.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Extensions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.WebUtilities.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Data.Edm.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Data.OData.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Options.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Cors.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Newtonsoft.Json.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Owin.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Data.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Entities.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Repository.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Service.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.ViewModels.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Buffers.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.ComponentModel.Primitives.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Spatial.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Text.Encodings.Web.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Cors.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Helpers.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.OData.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.Owin.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Mvc.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Optimization.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Razor.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Webpages.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Web.Optimization.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\WebActivatorEx.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\WebGrease.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Data.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Entities.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Repository.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.Service.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Smart.ViewModels.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Antlr3.Runtime.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Autofac.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Autofac.Integration.Mvc.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Autofac.Integration.WebApi.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\AutoMapper.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\EntityFramework.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\EntityFramework.SqlServer.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.Cookies.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.Internal.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Extensions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.AspNet.WebUtilities.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Data.Edm.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Data.OData.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Options.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Cors.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\Newtonsoft.Json.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Spatial.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Text.Encodings.Web.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.OData.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.Owin.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Optimization.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Razor.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Webpages.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Helpers.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\System.Web.Mvc.xml
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\EntityFramework.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\de\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\es\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\fr\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\it\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ja\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ko\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\obj\Debug\Smart.dll
+C:\Users\Natalya\Desktop\SmartMessengerTFS\SMARTMessenger\Smart\obj\Debug\Smart.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\csc.exe
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\csc.exe.config
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\csc.rsp
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\csi.exe
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\csi.rsp
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\System.AppContext.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\vbc.exe
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\vbc.exe.config
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\vbc.rsp
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\VBCSCompiler.exe
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.dll.config
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Antlr3.Runtime.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Autofac.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Autofac.Integration.Mvc.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Autofac.Integration.WebApi.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\AutoMapper.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\EntityFramework.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\EntityFramework.SqlServer.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Authentication.Cookies.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Authentication.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.DataProtection.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.Extensions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.WebUtilities.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Data.Edm.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Data.OData.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Options.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Cors.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Security.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Newtonsoft.Json.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Owin.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Data.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Entities.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Repository.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Service.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.ViewModels.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Buffers.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.ComponentModel.Primitives.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Net.Http.Formatting.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Spatial.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Text.Encodings.Web.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Cors.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Helpers.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.OData.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.Owin.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.WebHost.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Mvc.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Optimization.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Razor.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Webpages.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Webpages.Razor.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Web.Optimization.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\WebActivatorEx.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\WebGrease.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Data.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Entities.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Repository.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.Service.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Smart.ViewModels.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Antlr3.Runtime.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Autofac.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Autofac.Integration.Mvc.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Autofac.Integration.WebApi.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\AutoMapper.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\EntityFramework.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\EntityFramework.SqlServer.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Authentication.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Authentication.Cookies.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Cryptography.Internal.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.DataProtection.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.Extensions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.WebUtilities.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Data.Edm.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Data.OData.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Options.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Cors.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Security.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Newtonsoft.Json.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Net.Http.Formatting.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Spatial.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Text.Encodings.Web.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.OData.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.Owin.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Http.WebHost.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Optimization.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Razor.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Webpages.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Webpages.Razor.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Helpers.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\System.Web.Mvc.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\EntityFramework.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\de\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\es\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\fr\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\it\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ja\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ko\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Web.Razor.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\obj\Debug\Smart.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\obj\Debug\Smart.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Smart\Smart\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\csc.exe
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\csc.exe.config
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\csc.rsp
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\csi.exe
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\csi.rsp
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\System.AppContext.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\System.Collections.Immutable.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\System.IO.FileSystem.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\System.Reflection.Metadata.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\vbc.exe
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\vbc.exe.config
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\vbc.rsp
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\VBCSCompiler.exe
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\roslyn\VBCSCompiler.exe.config
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.dll.config
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Antlr3.Runtime.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Autofac.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Autofac.Integration.Mvc.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Autofac.Integration.WebApi.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\AutoMapper.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\EntityFramework.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\EntityFramework.SqlServer.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.Cookies.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.Internal.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Extensions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Features.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.WebUtilities.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Data.Edm.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Data.OData.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Options.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.OptionsModel.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Primitives.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.Core.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Net.Http.Headers.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Cors.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Google.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Web.Infrastructure.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Newtonsoft.Json.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Owin.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Data.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Entities.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Repository.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Service.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.ViewModels.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Buffers.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.ComponentModel.Primitives.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.ComponentModel.TypeConverter.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Net.Http.Formatting.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Spatial.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Text.Encodings.Web.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Cors.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Helpers.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.OData.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.Owin.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.WebHost.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Mvc.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Optimization.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Razor.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Webpages.Deployment.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Webpages.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Webpages.Razor.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Web.Optimization.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\WebActivatorEx.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\WebGrease.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Data.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Entities.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Repository.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.Service.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Smart.ViewModels.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Antlr3.Runtime.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Autofac.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Autofac.Integration.Mvc.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Autofac.Integration.WebApi.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\AutoMapper.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\EntityFramework.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\EntityFramework.SqlServer.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.Cookies.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.Internal.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Extensions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Features.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.AspNet.WebUtilities.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Data.Edm.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Data.OData.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Options.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.OptionsModel.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.Primitives.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.Core.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Net.Http.Headers.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Cors.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Google.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\Newtonsoft.Json.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Net.Http.Formatting.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Spatial.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Text.Encodings.Web.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.OData.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.Owin.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Http.WebHost.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Optimization.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Razor.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Webpages.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Webpages.Deployment.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Webpages.Razor.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Helpers.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\System.Web.Mvc.xml
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\EntityFramework.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\de\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\es\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\it\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.Owin.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\de\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\es\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\fr\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\it\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ja\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ko\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\zh-Hans\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\zh-Hant\System.Spatial.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Web.Razor.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Web.Helpers.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\bin\ru\System.Web.Mvc.resources.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\obj\Debug\Smart.dll
+D:\Smart_Business\Smart_academy\Project\SMARTMessenger\Smart\obj\Debug\Smart.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\csc.exe
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\csc.exe.config
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\csc.rsp
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\csi.exe
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\csi.rsp
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\System.AppContext.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\vbc.exe
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\vbc.exe.config
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\vbc.rsp
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.dll.config
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Antlr3.Runtime.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Autofac.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Autofac.Integration.Mvc.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Autofac.Integration.WebApi.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\AutoMapper.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\EntityFramework.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\EntityFramework.SqlServer.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.Cookies.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Extensions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.WebUtilities.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Data.Edm.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Data.OData.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Options.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Cors.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Newtonsoft.Json.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Owin.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Data.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Entities.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Repository.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Service.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.ViewModels.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Buffers.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.ComponentModel.Primitives.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Spatial.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Text.Encodings.Web.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Cors.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Helpers.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.OData.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.Owin.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Mvc.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Optimization.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Razor.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Webpages.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Web.Optimization.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\WebActivatorEx.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\WebGrease.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Data.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Entities.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Repository.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.Service.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Smart.ViewModels.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Antlr3.Runtime.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Autofac.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Autofac.Integration.Mvc.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Autofac.Integration.WebApi.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\AutoMapper.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\EntityFramework.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\EntityFramework.SqlServer.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Authentication.Cookies.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.Internal.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Extensions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.AspNet.WebUtilities.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Data.Edm.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Data.OData.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Options.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Cors.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\Newtonsoft.Json.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Spatial.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Text.Encodings.Web.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.OData.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.Owin.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Optimization.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Razor.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Webpages.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Helpers.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\System.Web.Mvc.xml
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\EntityFramework.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\de\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\es\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\fr\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\it\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ja\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ko\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\obj\Debug\Smart.dll
+C:\Users\Natalya\Desktop\SmartLast\SMARTMessenger\Smart\obj\Debug\Smart.pdb

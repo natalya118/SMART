@@ -1,0 +1,16 @@
+﻿<form class="form-login" role="form">
+    <h2 class="form-login-heading">Login</h2>
+    <div class="form-group label-static">
+        <input type="text" class="form-control" placeholder="Username" data-ng-model="loginData.userName" required autofocus>
+    </div>
+    <div class="form-group label-static">
+        <input type="password" class="form-control" placeholder="Password" data-ng-model="loginData.password" required>
+    </div>
+    <button class="btn btn-lg btn-primary btn-raised" type="submit" data-ng-click="login()">Login</button>
+    <div data-ng-hide="message == ''" class="alert alert-danger">
+        {{message}}
+    </div>
+    <button class="btn btn-large btn-social btn-block" type="button" data-ng-click="authExternalProvider('Facebook')"><i class="fa fa-facebook-square"></i> | Connect with Facebook</button>
+    <button class="btn btn-large btn-google-plus btn-block" type="button" data-ng-click="authExternalProvider('Google')"><i class="fa fa-google-plus"></i> | Connect with Google+</button>
+</form>
+
